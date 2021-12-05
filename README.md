@@ -22,6 +22,7 @@ There are more subscribers than daily users for all genders;
 
 
 Please see the whole analysis clicking the link bellow:
+
 [NYC Citibike Analysis](https://public.tableau.com/shared/6R23J337S?:display_count=n&:origin=viz_share_link)
 
 Tools used for this project:
