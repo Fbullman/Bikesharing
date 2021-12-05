@@ -11,12 +11,12 @@ Bellow are some images of the data analysis;
 
 Males use the bike share system more than females:
 
-![This is an image] https://github.com/Fbullman/Bikesharing/blob/main/Checkout%20by%20times.png
+![This is an image] (https://github.com/Fbullman/Bikesharing/blob/main/Checkout%20by%20times.png)
 
 
 There are more subscribers than daily userts for all genders;
 
-![This is an image] https://github.com/Fbullman/Bikesharing/blob/main/User%20trips%20by%20gender.png
+![This is an image] (https://github.com/Fbullman/Bikesharing/blob/main/User%20trips%20by%20gender.png)
 
 
 Please see the whole analysis in clicking the link bellow:
