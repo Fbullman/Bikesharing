@@ -1,4 +1,4 @@
-![this is an image](https://github.com/Fbullman/Bikesharing/blob/main/citibike.png)
+## ![this is an image](https://github.com/Fbullman/Bikesharing/blob/main/citibike.png)
 # Bikesharing
 Citi Bike program in New York
 
