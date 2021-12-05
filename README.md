@@ -16,12 +16,12 @@ Checkout times for all users
 ![This is an image](https://github.com/Fbullman/Bikesharing/blob/main/Checkout%20times%20for%20users.png)
 
 
-In the breakdown usres by gender, males use the bike share system more than females:
+In the breakdown users by gender, males use the bike share system more than females:
 
 ![This is an image](https://github.com/Fbullman/Bikesharing/blob/main/Checkout%20by%20times.png)
 
 
-There are more subscribers than daily users for all genders;
+There are more subscribers than non-subscribers users for all genders;
 
 ![This is an image](https://github.com/Fbullman/Bikesharing/blob/main/User%20trips%20by%20gender.png)
 
