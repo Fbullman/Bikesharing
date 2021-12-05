@@ -11,7 +11,12 @@ Data Analysis from Citibike, a bike sharing program in the city of New York, as 
 
 Bellow are some images of the data analysis;
 
-Males use the bike share system more than females:
+Checkout times for all users
+
+![This is an image](https://github.com/Fbullman/Bikesharing/blob/main/Checkout%20times%20for%20users.png)
+
+
+In the breakdown usres by gender, males use the bike share system more than females:
 
 ![This is an image](https://github.com/Fbullman/Bikesharing/blob/main/Checkout%20by%20times.png)
 
